@@ -6,3 +6,6 @@ Requires
 -----
   * Jupyter
   * Python
+  * Pandas
+ 
+
