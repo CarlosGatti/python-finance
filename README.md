@@ -1,1 +1,8 @@
-# python-finance
+
+python-finance
+======
+```
+Requires
+-----
+  * Jupyter
+  * Python
